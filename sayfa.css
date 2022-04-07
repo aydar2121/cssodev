@@ -1,0 +1,39 @@
+/* h1 başlıklarının rengi */
+h1{
+ color:red;
+ font-size: 35px;
+ 
+}
+
+nav{
+    font-size: 22px;
+}
+
+/*Paragraf boyutlama */
+p{
+    font-size: 20px;
+}
+
+/* h2 Başlığının rengi ve Boyutu*/
+h2{
+    color: blueviolet;
+    font-size: 35px;
+}
+ul{
+    list-style-position: inside
+
+}
+body
+{
+    margin:0 auto;text-align:center; width:960px;
+    
+}
+img{
+    height: 30%;
+ 
+    width: 30%;
+    
+ }
+ ol{
+     font-size: 20px;
+ }
